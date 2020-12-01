@@ -3,9 +3,9 @@ An awesome way to find datasets that have been released through New York State's
 
 Have you received data through FOIL? Share datasets below using the following layout:  
 
-Link | Link status | Short description | Year | Filetype | Government agency
+Short description of data | Link | Link Status | Year | Filetype | Government agency
 -|---------|---------|---------|---------|---------
-Link to the dataset | [![OK_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) I am well <br/> [![FIXME_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) Please fix me | A short description of the dataset |Year of the data release, if known|Dataset filetype (pdf, csv, etc)|Which government agency the dataset came from, if known
+A short description of the dataset | Link to the dataset | [![OK_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) I am well <br/> [![FIXME_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) Please fix me | Year of the data release, if known|Dataset filetype (pdf, csv, etc)| Which government agency the dataset came from, if known
 
 
 
@@ -16,7 +16,7 @@ Please highlight any issues so that we can fix. Join this repo as a contributor 
 
 ### Datasets
 
-Link | Link status | Short description | Year | Filetype | Government agency
+Short description of data | Link | Link Status | Year | Filetype | Government agency
 -|---------|---------|---------|---------|---------
 Data containing the block and lot numbers of NYC addresses that have rent stabilized residential units registered with the DHCR. |[Link](https://github.com/clhenrick/dhcr-rent-stabilized-data) | [![OK_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) | 2013|CSV|DHCR
 NYC taxi trip data from the NYC Taxi and Limousine Commission | [Link](https://chriswhong.com/open-data/foil_nyc_taxi/) | [![OK_ICON](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png)](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) |  2013 | CSV | TLC
